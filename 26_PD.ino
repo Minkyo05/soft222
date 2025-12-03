@@ -26,8 +26,8 @@
 #define _DIST_TARGET    145 // Center of the rail (unit:mm)
 
 // PID parameters
-#define _KP 2.0  // proportional gain
-#define _KD 80.0  // derivative gain
+#define _KP 1.6  // proportional gain
+#define _KD 70.0  // derivative gain
 //#define _KI 0.0   // integral gain
 
 // global variables
